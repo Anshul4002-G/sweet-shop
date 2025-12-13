@@ -172,13 +172,6 @@ Interview discussion notes:
 - The backend test suite is configured in [backend/jest.config.js](backend/jest.config.js).
 - Local coverage report can be found at [backend/coverage/lcov-report/index.html](backend/coverage/lcov-report/index.html).
 
-Summary metrics (from the latest generated report):
-
-- Statements: 67.59% (194/287)
-- Branches: 42.10% (32/76)
-- Functions: 62.5% (15/24)
-- Lines: 65.79% (177/269)
-
 Notes:
 
 - The test coverage does not meet the configured global threshold (80%). This is intentional for a work-in-progress project and the areas with lower coverage are primarily in input validation and error-handling branches within controller and middleware code.
