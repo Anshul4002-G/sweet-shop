@@ -182,5 +182,5 @@ Notes:
 - Add screenshots in `screenshots/` (create the folder if it doesn't exist) and reference them in the README like this:
 
 ![Login Page](https://github.com/Anshul4002-G/sweet-shop/blob/main/Screenshot/LoginPage.png)
-![UserDashboard](https://github.com/Anshul4002-G/sweet-shop/blob/main/Screenshot/image.png)
+![UserDashboard](https://github.com/Anshul4002-G/sweet-shop/blob/main/Screenshot/userDashboard.png)
 ![AdminDashboard](https://github.com/Anshul4002-G/sweet-shop/blob/main/Screenshot/AdminDashboard.png)
