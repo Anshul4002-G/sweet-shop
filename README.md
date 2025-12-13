@@ -165,7 +165,7 @@ Interview discussion notes:
 
 ## Public Repository
 
-- GitHub: https://github.com/<>/sweet-shop
+- GitHub: https://github.com/Anshul4002-G/sweet-shop
 
 ## Test Report (Backend)
 
@@ -182,4 +182,4 @@ Notes:
 - Add screenshots in `screenshots/` (create the folder if it doesn't exist) and reference them in the README like this:
 
 ![Login Page](https://github.com/rishabhkumarchaubey/SweetShop/blob/main/Screenshot/Screenshot%202025-12-13%20144857.png?raw=true)
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Anshul4002-G/sweet-shop/blob/main/Screenshot/image.png)
